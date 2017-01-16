@@ -163,7 +163,7 @@ h4 span:first-child {
   }
 }
 
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
   .col-sm-6:last-child {
     margin-bottom: 0px;
   }
@@ -175,7 +175,7 @@ h4 span:first-child {
   #publications .website a:before {
     content: "View publication";
   }
-}
+}*/
 
 @media (max-width: 480px) {
   h1 {
